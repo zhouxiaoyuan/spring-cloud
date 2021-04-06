@@ -1,0 +1,8 @@
+
+spring boot
+1. application.java 文件不能直接放在main/java文件夹下，必须要建一个包把他放进去
+ 否则会报: Your ApplicationContext is unlikely to start due to a @ComponentScan of the default package.
+
+2. windows10.microdone.cn hosts删不掉
+ 卸载网银插件
+
